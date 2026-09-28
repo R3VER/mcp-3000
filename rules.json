@@ -1,0 +1,187 @@
+{
+  "title": "Pollution ka Solution – Aaj Tak",
+  "source_file": "Evaluation Parameters for Aaj Tak PkS-1.pdf",
+  "evaluation_note": {
+    "central_question": "If Delhi actually implements this, how much difference can it make to pollution?",
+    "impact_dimensions": [
+      {
+        "name": "Magnitude",
+        "question": "How much pollution can potentially be reduced?"
+      },
+      {
+        "name": "Coverage",
+        "question": "How many people/areas/sources can it affect?"
+      },
+      {
+        "name": "Duration",
+        "question": "Is the benefit temporary or sustained?"
+      },
+      {
+        "name": "Pollutants addressed",
+        "question": "Does it address PM2.5/PM10, NOx, SOx, VOCs, waste, water contamination, noise, etc.?"
+      },
+      {
+        "name": "Source significance",
+        "question": "Does it tackle a major contributor or a relatively insignificant source?"
+      }
+    ],
+    "delhi_reality_test": [
+      "Does it solve a real Delhi problem? It is not merely a theoretical environmental problem.",
+      "Can it work under Delhi's conditions? Climate, density, traffic, infrastructure, governance, behaviour, etc.",
+      "Can it be implemented within existing institutional structures? Or does it require major legislative/institutional restructuring?",
+      "Can the result be measured?",
+      "Can it eventually be scaled? A solution that works at one location but becomes prohibitively expensive at city scale should be scored accordingly."
+    ]
+  },
+  "evaluation_parameters": [
+    {
+      "number": 1,
+      "parameter": "Pollution Reduction Impact",
+      "weight": 30,
+      "jury_should_ask": "If implemented, how significant could the reduction in pollution be? Does it address a major source, pollutant or hotspot, or only a marginal problem?"
+    },
+    {
+      "number": 2,
+      "parameter": "Scientific Validity, Practicality & Feasibility",
+      "weight": 20,
+      "jury_should_ask": "Is the underlying science or technology sound? Is there credible evidence that the proposed intervention will produce the claimed result? Can this actually work in Delhi's real-world conditions—not merely in a laboratory or presentation? What infrastructure, permissions, behaviour or institutional changes are required?"
+    },
+    {
+      "number": 3,
+      "parameter": "Scalability & Replicability",
+      "weight": 15,
+      "jury_should_ask": "Can it move from a pilot to city-wide implementation? Can it be replicated across Delhi/NCR and potentially other Indian cities?"
+    },
+    {
+      "number": 4,
+      "parameter": "Cost-Effectiveness / Value for Money",
+      "weight": 15,
+      "jury_should_ask": "What does it cost relative to the pollution reduction achieved? Is it financially viable for Government, citizens and/or industry?"
+    },
+    {
+      "number": 5,
+      "parameter": "Innovation & Originality",
+      "weight": 20,
+      "jury_should_ask": "Is the idea genuinely new, or does it provide a significantly better way of solving an existing problem?"
+    }
+  ],
+  "total_weight": 100,
+  "scoring_scale": {
+    "5": "Exceptional",
+    "4": "Strong",
+    "3": "Moderate",
+    "2": "Weak",
+    "1": "Very weak/unsubstantiated"
+  },
+  "scoring_matrix": [
+    {
+      "number": 1,
+      "parameter": "Pollution Reduction Impact & Measurability",
+      "weight": 30,
+      "score_1_weak": "Limited or unclear impact; addresses a relatively small problem",
+      "score_3_moderate": "Meaningful reduction in a defined pollution source/area",
+      "score_5_exceptional": "Potential for substantial, measurable reduction in a significant pollution source"
+    },
+    {
+      "number": 2,
+      "parameter": "Scientific Validity, Practicality & Feasibility",
+      "weight": 20,
+      "score_1_weak": "Not valid scientifically; Difficult to implement under real-world Delhi conditions",
+      "score_3_moderate": "Implementable with some significant modifications/resources",
+      "score_5_exceptional": "Scientific, Highly practical, realistic and implementable under existing conditions"
+    },
+    {
+      "number": 3,
+      "parameter": "Scalability & Replicability",
+      "weight": 15,
+      "score_1_weak": "Works only at very limited scale",
+      "score_3_moderate": "Can be expanded with substantial additional resources",
+      "score_5_exceptional": "Can be rapidly scaled across Delhi/NCR and replicated elsewhere"
+    },
+    {
+      "number": 4,
+      "parameter": "Cost-Effectiveness / Value for Money",
+      "weight": 15,
+      "score_1_weak": "High cost relative to likely benefit",
+      "score_3_moderate": "Reasonable cost-benefit proposition",
+      "score_5_exceptional": "Excellent pollution reduction per rupee invested; economically compelling"
+    },
+    {
+      "number": 5,
+      "parameter": "Innovation & Originality",
+      "weight": 20,
+      "score_1_weak": "Existing/common approach with little differentiation",
+      "score_3_moderate": "Some new element or meaningful adaptation",
+      "score_5_exceptional": "Genuinely novel or transformative approach to the problem"
+    }
+  ],
+  "jury_evaluation_sheet": {
+    "program": "POLLUTION KA SOLUTION",
+    "fields": {
+      "entry_no": "",
+      "name_of_entrant": "",
+      "category": "",
+      "title_of_solution": ""
+    },
+    "parameters": [
+      {
+        "number": 1,
+        "parameter": "Pollution Reduction Impact & Measurability",
+        "weight": 30,
+        "score_1_to_5": null,
+        "weighted_marks": null
+      },
+      {
+        "number": 2,
+        "parameter": "Scientific Validity, Practicality & Feasibility",
+        "weight": 20,
+        "score_1_to_5": null,
+        "weighted_marks": null
+      },
+      {
+        "number": 3,
+        "parameter": "Scalability & Replicability",
+        "weight": 15,
+        "score_1_to_5": null,
+        "weighted_marks": null
+      },
+      {
+        "number": 4,
+        "parameter": "Cost-Effectiveness / Value for Money",
+        "weight": 15,
+        "score_1_to_5": null,
+        "weighted_marks": null
+      },
+      {
+        "number": 5,
+        "parameter": "Innovation & Originality",
+        "weight": 20,
+        "score_1_to_5": null,
+        "weighted_marks": null
+      }
+    ],
+    "total": {
+      "weight": 100,
+      "weighted_marks": null,
+      "maximum": 100
+    },
+    "final_check": {
+      "relevance": "Does the proposal demonstrably address a pollution problem?",
+      "credibility": "Is there a scientifically/technically plausible mechanism through which it can reduce pollution?",
+      "testability": "Can the claimed benefit be objectively tested and measured?"
+    },
+    "pilot_in_delhi": [
+      "Yes — immediately",
+      "Yes — subject to validation/modification",
+      "Potentially — requires further development",
+      "No"
+    ],
+    "overall_recommendation": [
+      "Strongly Recommend",
+      "Recommend",
+      "Consider for further evaluation",
+      "Do Not Recommend"
+    ]
+  },
+  "pages": 4
+}
